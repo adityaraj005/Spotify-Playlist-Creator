@@ -31,9 +31,9 @@ This project automates the creation of a Spotify playlist based on the Billboard
 
 ## Usage
 Run the script:
-```bash
-python playlist_creator.py
-```
+   ```bash
+   main.py
+   ```
 
 Enter the desired date in the format YYYY-MM-DD when prompted.
 
