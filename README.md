@@ -18,17 +18,17 @@ This project automates the creation of a Spotify playlist based on the Billboard
    ```bash
    git clone https://github.com/yourusername/spotify-playlist-creator.git
    cd spotify-playlist-creator
-
+   ```
 2. Install the required packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Set up environment variables:
-  ```bash
-  export USER_CLIENT_ID='your_spotify_client_id'
-  export USER_CLIENT_SECRET='your_spotify_client_secret'
-  export USER_URI='your_spotify_redirect_uri'
-  ```
+   ```bash
+   export USER_CLIENT_ID='your_spotify_client_id'
+   export USER_CLIENT_SECRET='your_spotify_client_secret'
+   export USER_URI='your_spotify_redirect_uri'
+   ```
 
 ## Usage
 Run the script:
