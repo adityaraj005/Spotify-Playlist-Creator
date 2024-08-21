@@ -56,6 +56,7 @@ Creates a new private playlist on Spotify named after the specified date.
 Adds the collected song URIs to the newly created playlist.
 
 ## Key Learnings
-➡️ Data Extraction: Enhanced skills in web scraping and data parsing.
-➡️ Secure Authentication: Gained experience with OAuth for secure API access.
-➡️ API Integration: Improved ability to work with third-party APIs, specifically for music streaming services.
+
+#### ➡️ Data Extraction: Enhanced skills in web scraping and data parsing.
+#### ➡️ Secure Authentication: Gained experience with OAuth for secure API access.
+#### ➡️ API Integration: Improved ability to work with third-party APIs, specifically for music streaming services.
