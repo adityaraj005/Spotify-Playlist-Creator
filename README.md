@@ -14,16 +14,15 @@ This project automates the creation of a Spotify playlist based on the Billboard
 - Billboard Hot 100 URL
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spotify-playlist-creator.git
-   cd spotify-playlist-creator
-   ```
-2. Install the required packages:
+
+1. Install the required packages:
+
    ```bash
    pip install -r requirements.txt
    ```
-3. Set up environment variables:
+   
+2. Set up environment variables:
+   
    ```bash
    export USER_CLIENT_ID='your_spotify_client_id'
    export USER_CLIENT_SECRET='your_spotify_client_secret'
